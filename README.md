@@ -1,4 +1,4 @@
-# TCustomer Churn Prediction Pipeline
+# Customer Churn Prediction Pipeline
 
 This project implements a comprehensive machine learning pipeline to predict customer churn for a telecom company. It includes data preprocessing, model training, cross-validation, hyperparameter tuning, and threshold optimization to maximize predictive performance.
 
